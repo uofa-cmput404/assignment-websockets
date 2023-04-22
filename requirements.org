@@ -49,6 +49,7 @@
    - [ ] The webservice can serve /static/index.html
    - [ ] static/index.html displays the current state of the webservice
    - [ ] static/index.html responds to clicks within 100ms on average
+   - [ ] Cumulatively together all tests must SUCCESSFULLY terminate within 150 seconds. Lack of termination is test failure.
    - [ ] Make static/index.html images look nice
 
  
